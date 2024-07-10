@@ -1,0 +1,14 @@
+Dockerfile
+docker-compose.yml
+.direnv
+.pytest_cache
+.git
+.idea
+.local
+logs
+media
+staticfiles
+tests
+tmp
+.env*
+requirements.txt
